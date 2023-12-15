@@ -6,5 +6,9 @@
   "repository": "https://github.com/MartDec/blog",
   "author": "Martin Déclert <declertmartin@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "husky": "^8.0.3",
+    "lerna": "^7.1.4"
+  }
 }
