@@ -34,7 +34,7 @@
   },
   "license": "MIT",
   "resolutions": {
-    "**/@koa/cors": ">=5.0.0",
-    "**/vite": ">=4.4.12"
+    "@koa/cors": ">=5.0.0",
+    "vite": ">=4.4.12"
   }
 }
