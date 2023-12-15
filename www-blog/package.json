@@ -16,6 +16,7 @@
     "lintfix": "prettier --write --list-different . && yarn lint:js --fix"
   },
   "dependencies": {
+    "mitt": "^3.0.1",
     "nuxt": "^3.8.2",
     "vuetify": "^3.4.7"
   },
