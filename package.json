@@ -1,0 +1,10 @@
+{
+  "name": "blog.martin",
+  "version": "1.0.0",
+  "description": "Blog de Martin Lopez",
+  "main": "index.js",
+  "repository": "https://github.com/MartDec/blog",
+  "author": "Martin Déclert <declertmartin@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
